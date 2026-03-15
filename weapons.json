@@ -1,0 +1,36 @@
+[
+{
+  "identity": {
+    "name": "Longbow",
+    "category": "Phóng cơ học",
+    "origin": "England",
+    "era": "Medieval"
+  },
+
+  "knowledge": {
+    "overview": "Longbow là cung dài dùng phổ biến trong chiến tranh Trung Cổ.",
+    "history": "Được sử dụng rộng rãi trong Chiến tranh Trăm Năm.",
+    "design": "Cung gỗ dài khoảng chiều cao người bắn.",
+    "principle": "Tích trữ năng lượng đàn hồi trong thân cung."
+  },
+
+  "technical": {
+    "specifications": {
+      "length": "1.8 m",
+      "range": "300 m",
+      "effective_range": "150 m"
+    }
+  },
+
+  "military_use": {
+    "tactical_role": "Tấn công tầm xa",
+    "users": ["English army"]
+  },
+
+  "expansion": {
+    "variants": [],
+    "related_weapons": ["Composite bow"],
+    "sources": []
+  }
+}
+]

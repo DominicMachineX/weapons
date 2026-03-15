@@ -195,6 +195,27 @@ main {
     color: var(--weaponcards-parapraph)
 }
 
+
+
+.weapon-controls{
+    max-width:1200px;
+    margin:auto;
+    padding:20px;
+    display:flex;
+    gap:1rem;
+}
+
+.weapon-controls input{
+    flex:1;
+    padding:10px;
+}
+
+.weapon-controls select{
+    padding:10px;
+}
+
+
+
 .weapon-grid{
     display:grid;
     grid-template-columns:repeat(3,1fr);
@@ -245,10 +266,12 @@ main {
     color:var(--weapon-card-text);
 }
 
+
+
 /* End */
 .about {
     width: 100%;
-    height: 6rem;
+    height: 5rem;
     background-color: #91a0b5;
     display: flex;
     justify-content: center;

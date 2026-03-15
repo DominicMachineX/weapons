@@ -95,6 +95,32 @@
 
             <div class="hr"></div>
 
+                <div class="weapon-controls">
+
+                    <input 
+                    type="text" 
+                    id="searchInput"
+                    placeholder="Search weapon name..."
+                    >
+
+                    <select id="filterType">
+                    <option value="all">All types</option>
+                    <option value="Melee weapons">Melee weapons</option>
+                    <option value="Projectile weapons">Projectile weapons</option>
+                    <option value="Firearms">Firearms</option>
+                    <option value="Explosive weapons">Explosive weapons</option>
+                    <option value="Missile weapons">Missile weapons</option>
+                    <option value="Weapons of mass destruction">Weapons of mass destruction</option>
+                    </select>
+
+                    <select id="sortSelect">
+                    <option value="default">Sort</option>
+                    <option value="az">Name A-Z</option>
+                    <option value="za">Name Z-A</option>
+                    </select>
+
+                    </div>
+
             
             <div class="weapon-grid" id="weaponContainer"></div>
 

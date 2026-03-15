@@ -5,7 +5,7 @@
     "official_name":"Avtomat Kalashnikova 1947",
     "type":"Firearms",
     "origin":"Liên Xô",
-    "era":"Chiến tranh lạnh(Cold war)",
+    "era":"Chiến tranh lạnh (Cold war)",
     "overview":"AK-47 là súng trường tấn công do Mikhail Kalashnikov thiết kế tại Liên Xô năm 1947, sử dụng đạn 7.62×39mm, nổi tiếng về độ bền, cấu tạo đơn giản và độ tin cậy cao trong nhiều điều kiện chiến đấu."
   },
 
@@ -17,5 +17,15 @@
     "origin":"Hoa Kỳ",
     "era":"Thế chiến 2 (WWII)",
     "overview":"Bazooka là vũ khí chống tăng vác vai do quân đội Hoa Kỳ phát triển trong World War II. Nó phóng rocket nổ lõm để xuyên giáp xe bọc thép và công sự ở khoảng cách ngắn."
+  },
+  {
+   "img":"assets/weapon-img/katana.jpg",
+    "name":"Katana",
+    "official_name":"Katana",
+    "type":"Melee weapons",
+    "origin":"Nhật Bản",
+    "era":"Phong kiến Nhật Bản (Feudal Japan)",
+    "overview":"Katana là kiếm cong truyền thống của Nhật Bản, xuất hiện từ thời phong kiến và gắn liền với tầng lớp võ sĩ samurai. Lưỡi dài, một cạnh sắc, được rèn bằng kỹ thuật thép nhiều lớp."
   }
+
 ]

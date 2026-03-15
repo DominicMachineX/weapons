@@ -26,6 +26,44 @@
     "origin":"Nhật Bản",
     "era":"Phong kiến Nhật Bản (Feudal Japan)",
     "overview":"Katana là kiếm cong truyền thống của Nhật Bản, xuất hiện từ thời phong kiến và gắn liền với tầng lớp võ sĩ samurai. Lưỡi dài, một cạnh sắc, được rèn bằng kỹ thuật thép nhiều lớp."
+  },
+  {
+   "img":"assets/weapon-img/Revolver.jpg",
+    "name":"Revolver",
+    "official_name":"Revolver",
+    "type":"Firearms",
+    "origin":"Hoa Kỳ",
+    "era":"Miền Tây hoang dã",
+    "overview":"Revolver là súng ngắn sử dụng ổ đạn xoay hình trụ chứa nhiều viên đạn. Mỗi lần bóp cò, ổ đạn quay đưa viên mới vào nòng; thiết kế phổ biến từ thế kỷ 19."
+  },
+  {
+   "img":"assets/weapon-img/c4.jpg",
+    "name":"C4",
+    "official_name":"Composition C-4",
+    "type":"Explosive weapons",
+    "origin":"Hoa Kỳ",
+    "era":"Chiến tranh lạnh (Cold war)",
+    "overview":"Composition C-4 là chất nổ dẻo quân sự dựa trên hợp chất RDX. Nó ổn định, dễ tạo hình và thường dùng cho phá hủy công trình hoặc mục tiêu vật liệu bằng kíp nổ chuyên dụng."
+  },
+  {
+   "img":"assets/weapon-img/flare-gun.jpg",
+    "name":"Flare gun",
+    "official_name":"Flare gun",
+    "type":"Firearms",
+    "origin":"Anh Quốc",
+    "era":"Thế chiến 1 (WWI) và Thế chiến 2 (WWII)",
+    "overview":"Flare gun là súng tín hiệu dùng để bắn pháo sáng nhằm phát tín hiệu cấp cứu, định vị hoặc chiếu sáng tạm thời. Thiết bị này thường được sử dụng trong hàng hải, hàng không và các tình huống khẩn cấp."
+  },
+  {
+   "img":"assets/weapon-img/",
+    "name":"",
+    "official_name":"",
+    "type":"",
+    "origin":"",
+    "era":"",
+    "overview":""
   }
+
+
 
 ]

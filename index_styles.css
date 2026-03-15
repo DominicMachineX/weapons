@@ -14,6 +14,10 @@
     --weaponcards-title: #0F2A2D;
     --weaponcards-parapraph: #2F4F52;
 
+    --weapon-card-bgcolor: #1E293B;
+    --weapon-card-title: #F1F5F9;
+    --weapon-card-text: #A8B3C7;
+
 }
 
 html{
@@ -193,26 +197,52 @@ main {
 
 .weapon-grid{
     display:grid;
-    grid-template-columns:repeat(auto-fit, minmax(260px,1fr));
+    grid-template-columns:repeat(3,1fr);
     gap:2rem;
 
     max-width:1200px;
     margin:auto;
+    padding:2rem;
 }
 
 .weapon-card{
-    background:#8f95a4;
+    background:var(--weapon-card-bgcolor);
+    border-radius:4px;
+    overflow:hidden;
+}
+
+/* container ảnh */
+.weapon-card-img{
+    width:100%;
+    height:180px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:#ffffff;
+}
+
+.weapon-card-img img{
+    width:100%;
+    height:100%;
+    object-fit:contain;
+}
+
+/* nội dung card */
+.weapon-card-content{
     padding:20px;
-    border-radius:10px;
 }
 
 .weapon-card h3{
-    font-size: 2rem;
-    line-height: 5rem;
+    font-size:2rem;
+    line-height:1.3;
+    margin-bottom:10px;
+    color:var(--weapon-card-title);
 }
 
-.weapon-card p {
-    line-height: 1.5rem;
+.weapon-card p{
+    line-height:1.5rem;
+    margin-bottom:6px;
+    color:var(--weapon-card-text);
 }
 
 /* End */

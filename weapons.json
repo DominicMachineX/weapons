@@ -1,82 +1,21 @@
 [
   {
+    "img":"assets/weapon-img/ak-47.jpg",
     "name":"AK- 47",
     "official_name":"Avtomat Kalashnikova 1947",
     "type":"Firearms",
-    "origin":"Soviet Union",
-    "era":"Cold war",
+    "origin":"Liên Xô",
+    "era":"Chiến tranh lạnh(Cold war)",
     "overview":"AK-47 là súng trường tấn công do Mikhail Kalashnikov thiết kế tại Liên Xô năm 1947, sử dụng đạn 7.62×39mm, nổi tiếng về độ bền, cấu tạo đơn giản và độ tin cậy cao trong nhiều điều kiện chiến đấu."
   },
+
   {
-    "name":"AK- 47",
-    "official_name":"Avtomat Kalashnikova 1947",
-    "type":"Firearms",
-    "origin":"Soviet Union",
-    "era":"Cold war",
-    "overview":"AK-47 là súng trường tấn công do Mikhail Kalashnikov thiết kế tại Liên Xô năm 1947, sử dụng đạn 7.62×39mm, nổi tiếng về độ bền, cấu tạo đơn giản và độ tin cậy cao trong nhiều điều kiện chiến đấu."
-  },
-  {
-    "name":"AK- 47",
-    "official_name":"Avtomat Kalashnikova 1947",
-    "type":"Firearms",
-    "origin":"Soviet Union",
-    "era":"Cold war",
-    "overview":"AK-47 là súng trường tấn công do Mikhail Kalashnikov thiết kế tại Liên Xô năm 1947, sử dụng đạn 7.62×39mm, nổi tiếng về độ bền, cấu tạo đơn giản và độ tin cậy cao trong nhiều điều kiện chiến đấu."
-  },
-  {
-    "name":"AK- 47",
-    "official_name":"Avtomat Kalashnikova 1947",
-    "type":"Firearms",
-    "origin":"Soviet Union",
-    "era":"Cold war",
-    "overview":"AK-47 là súng trường tấn công do Mikhail Kalashnikov thiết kế tại Liên Xô năm 1947, sử dụng đạn 7.62×39mm, nổi tiếng về độ bền, cấu tạo đơn giản và độ tin cậy cao trong nhiều điều kiện chiến đấu."
-  },
-  {
-    "name":"AK- 47",
-    "official_name":"Avtomat Kalashnikova 1947",
-    "type":"Firearms",
-    "origin":"Soviet Union",
-    "era":"Cold war",
-    "overview":"AK-47 là súng trường tấn công do Mikhail Kalashnikov thiết kế tại Liên Xô năm 1947, sử dụng đạn 7.62×39mm, nổi tiếng về độ bền, cấu tạo đơn giản và độ tin cậy cao trong nhiều điều kiện chiến đấu."
-  },
-  {
-    "name":"AK- 47",
-    "official_name":"Avtomat Kalashnikova 1947",
-    "type":"Firearms",
-    "origin":"Soviet Union",
-    "era":"Cold war",
-    "overview":"AK-47 là súng trường tấn công do Mikhail Kalashnikov thiết kế tại Liên Xô năm 1947, sử dụng đạn 7.62×39mm, nổi tiếng về độ bền, cấu tạo đơn giản và độ tin cậy cao trong nhiều điều kiện chiến đấu."
-  },
-  {
-    "name":"AK- 47",
-    "official_name":"Avtomat Kalashnikova 1947",
-    "type":"Firearms",
-    "origin":"Soviet Union",
-    "era":"Cold war",
-    "overview":"AK-47 là súng trường tấn công do Mikhail Kalashnikov thiết kế tại Liên Xô năm 1947, sử dụng đạn 7.62×39mm, nổi tiếng về độ bền, cấu tạo đơn giản và độ tin cậy cao trong nhiều điều kiện chiến đấu."
-  },
-  {
-    "name":"AK- 47",
-    "official_name":"Avtomat Kalashnikova 1947",
-    "type":"Firearms",
-    "origin":"Soviet Union",
-    "era":"Cold war",
-    "overview":"AK-47 là súng trường tấn công do Mikhail Kalashnikov thiết kế tại Liên Xô năm 1947, sử dụng đạn 7.62×39mm, nổi tiếng về độ bền, cấu tạo đơn giản và độ tin cậy cao trong nhiều điều kiện chiến đấu."
-  },
-  {
-    "name":"AK- 47",
-    "official_name":"Avtomat Kalashnikova 1947",
-    "type":"Firearms",
-    "origin":"Soviet Union",
-    "era":"Cold war",
-    "overview":"AK-47 là súng trường tấn công do Mikhail Kalashnikov thiết kế tại Liên Xô năm 1947, sử dụng đạn 7.62×39mm, nổi tiếng về độ bền, cấu tạo đơn giản và độ tin cậy cao trong nhiều điều kiện chiến đấu."
-  },
-  {
-    "name":"AK- 47",
-    "official_name":"Avtomat Kalashnikova 1947",
-    "type":"Firearms",
-    "origin":"Soviet Union",
-    "era":"Cold war",
-    "overview":"AK-47 là súng trường tấn công do Mikhail Kalashnikov thiết kế tại Liên Xô năm 1947, sử dụng đạn 7.62×39mm, nổi tiếng về độ bền, cấu tạo đơn giản và độ tin cậy cao trong nhiều điều kiện chiến đấu."
+    "img":"assets/weapon-img/bazooka.jpg",
+    "name":"Bazooka",
+    "official_name":"M1 Rocket Launcher",
+    "type":"Missile weapons",
+    "origin":"Hoa Kỳ",
+    "era":"Thế chiến 2 (WWII)",
+    "overview":"Bazooka là vũ khí chống tăng vác vai do quân đội Hoa Kỳ phát triển trong World War II. Nó phóng rocket nổ lõm để xuyên giáp xe bọc thép và công sự ở khoảng cách ngắn."
   }
 ]

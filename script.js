@@ -6,20 +6,38 @@ fetch("weapons.json")
 
     data.forEach(weapon => {
 
-      const div = document.createElement("div");
+      // card chính
+      const card = document.createElement("div");
+      card.classList.add("weapon-card");
 
-      div.classList.add("weapon-card");   // thêm dòng này
+      // div ảnh
+      const imgDiv = document.createElement("div");
+      imgDiv.classList.add("weapon-card-img");
 
-      div.innerHTML = `
+      const img = document.createElement("img");
+      img.src = weapon.img;
+      img.alt = weapon.name;
+
+      imgDiv.appendChild(img);
+
+      // div nội dung
+      const content = document.createElement("div");
+      content.classList.add("weapon-card-content");
+
+      content.innerHTML = `
         <h3>${weapon.name}</h3>
-        <p>Tên chính thức: ${weapon.official_name}</p>
+        <p>Tên chính thức: <b>${weapon.official_name}</b></p>
         <p>Kiểu vũ khí: ${weapon.type}</p>
         <p>Xuất xứ: ${weapon.origin}</p>
         <p>Sử dụng vào thời kỳ: ${weapon.era}</p>
-        <p>Giới thiệu: ${weapon.overview}</p>
+        <p>Giới thiệu:<br>${weapon.overview}</p>
       `;
 
-      container.appendChild(div);
+      // ghép lại
+      card.appendChild(imgDiv);
+      card.appendChild(content);
+
+      container.appendChild(card);
 
     });
 

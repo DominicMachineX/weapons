@@ -11,10 +11,12 @@ fetch("weapons.json")
       div.classList.add("weapon-card");   // thêm dòng này
 
       div.innerHTML = `
-        <h3>${weapon.identity.name}</h3>
-        <p>${weapon.identity.category}</p>
-        <p>${weapon.identity.origin} • ${weapon.identity.era}</p>
-        <p>${weapon.knowledge.overview}</p>
+        <h3>${weapon.name}</h3>
+        <p>Tên chính thức: ${weapon.official_name}</p>
+        <p>Kiểu vũ khí: ${weapon.type}</p>
+        <p>Xuất xứ: ${weapon.origin}</p>
+        <p>Sử dụng vào thời kỳ: ${weapon.era}</p>
+        <p>Giới thiệu: ${weapon.overview}</p>
       `;
 
       container.appendChild(div);

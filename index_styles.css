@@ -201,9 +201,18 @@ main {
 }
 
 .weapon-card{
-    background:#3770f6;
+    background:#8f95a4;
     padding:20px;
     border-radius:10px;
+}
+
+.weapon-card h3{
+    font-size: 2rem;
+    line-height: 5rem;
+}
+
+.weapon-card p {
+    line-height: 1.5rem;
 }
 
 /* End */

@@ -55,15 +55,482 @@
     "overview":"Flare gun là súng tín hiệu dùng để bắn pháo sáng nhằm phát tín hiệu cấp cứu, định vị hoặc chiếu sáng tạm thời. Thiết bị này thường được sử dụng trong hàng hải, hàng không và các tình huống khẩn cấp."
   },
   {
-   "img":"assets/weapon-img/",
-    "name":"",
-    "official_name":"",
-    "type":"",
-    "origin":"",
-    "era":"",
-    "overview":""
+  "img":"assets/weapon-img/kar98.jpg",
+  "name":"Kar98k",
+  "official_name":"Karabiner 98 Kurz",
+  "type":"Firearms",
+  "origin":"Đức",
+  "era":"Thế chiến 2 (WWII)",
+  "overview":"Karabiner 98k là súng trường lên đạn bằng tay do Đức phát triển dựa trên hệ Mauser 98. Nó sử dụng đạn 7.92×57mm Mauser và là súng trường tiêu chuẩn của Wehrmacht trong World War II."
+  },
+  {
+  "img":"assets/weapon-img/m16.jpg",
+  "name":"M16",
+  "official_name":"M16 Rifle",
+  "type":"Firearms",
+  "origin":"Hoa Kỳ",
+  "era":"Chiến tranh Việt Nam",
+  "overview":"M16 là súng trường tấn công do Eugene Stoner thiết kế cho quân đội Hoa Kỳ thập niên 1960. Nó sử dụng đạn 5.56×45mm NATO, nổi bật với trọng lượng nhẹ, tốc độ bắn cao và độ chính xác tốt."
+  },
+
+  {
+  "img":"assets/weapon-img/ar15.jpg",
+  "name":"AR-15",
+  "official_name":"ArmaLite Rifle-15",
+  "type":"Firearms",
+  "origin":"Hoa Kỳ",
+  "era":"Thế kỷ 20",
+  "overview":"AR-15 là nền tảng súng trường bán tự động phát triển từ thiết kế ArmaLite. Nó dùng đạn 5.56×45mm, có cấu trúc mô-đun dễ tùy biến và ảnh hưởng lớn đến nhiều dòng súng trường hiện đại."
+  },
+
+  {
+  "img":"assets/weapon-img/ak74.jpg",
+  "name":"AK-74",
+  "official_name":"Avtomat Kalashnikova 1974",
+  "type":"Firearms",
+  "origin":"Liên Xô",
+  "era":"Chiến tranh lạnh",
+  "overview":"AK-74 là phiên bản cải tiến của AK-47, sử dụng đạn 5.45×39mm. Vũ khí này được quân đội Liên Xô đưa vào sử dụng năm 1974 nhằm giảm độ giật và tăng độ chính xác."
+  },
+
+  {
+  "img":"assets/weapon-img/glock17.jpg",
+  "name":"Glock 17",
+  "official_name":"Glock 17",
+  "type":"Firearms",
+  "origin":"Áo",
+  "era":"Thế kỷ 20",
+  "overview":"Glock 17 là súng ngắn bán tự động do hãng Glock phát triển năm 1982. Nó sử dụng đạn 9×19mm, nổi tiếng với khung polymer nhẹ, cơ chế đơn giản và độ tin cậy cao."
+  },
+
+  {
+  "img":"assets/weapon-img/desert-eagle.jpg",
+  "name":"Desert Eagle",
+  "official_name":"Desert Eagle Pistol",
+  "type":"Firearms",
+  "origin":"Hoa Kỳ",
+  "era":"Thế kỷ 20",
+  "overview":"Desert Eagle là súng ngắn bán tự động cỡ lớn do Magnum Research phát triển. Nó có thể sử dụng các loại đạn mạnh như .50 Action Express và được biết đến nhờ kích thước và lực bắn mạnh."
+  },
+
+  {
+  "img":"assets/weapon-img/mp5.jpg",
+  "name":"MP5",
+  "official_name":"Heckler & Koch MP5",
+  "type":"Firearms",
+  "origin":"Đức",
+  "era":"Chiến tranh lạnh",
+  "overview":"MP5 là súng tiểu liên do Heckler & Koch phát triển vào thập niên 1960. Nó sử dụng đạn 9×19mm và được nhiều lực lượng quân sự, cảnh sát trên thế giới sử dụng trong tác chiến cự ly gần."
+  },
+
+  {
+  "img":"assets/weapon-img/uzi.jpg",
+  "name":"Uzi",
+  "official_name":"Uzi Submachine Gun",
+  "type":"Firearms",
+  "origin":"Israel",
+  "era":"Thế kỷ 20",
+  "overview":"Uzi là súng tiểu liên do Uziel Gal thiết kế cho quân đội Israel. Nó sử dụng đạn 9×19mm và nổi bật nhờ kích thước gọn, tốc độ bắn cao và cấu trúc đơn giản."
+  },
+
+  {
+  "img":"assets/weapon-img/p90.jpg",
+  "name":"P90",
+  "official_name":"FN P90",
+  "type":"Firearms",
+  "origin":"Bỉ",
+  "era":"Thế kỷ 20",
+  "overview":"FN P90 là vũ khí phòng vệ cá nhân do FN Herstal phát triển. Nó sử dụng đạn 5.7×28mm và có thiết kế bullpup cùng hộp tiếp đạn nằm ngang đặc trưng."
+  },
+
+  {
+  "img":"assets/weapon-img/mg42.jpg",
+  "name":"MG42",
+  "official_name":"Maschinengewehr 42",
+  "type":"Firearms",
+  "origin":"Đức",
+  "era":"Thế chiến 2",
+  "overview":"MG42 là súng máy hạng trung của Đức trong World War II. Nó nổi tiếng với tốc độ bắn cực cao khoảng 1200 viên mỗi phút và thiết kế đơn giản dễ sản xuất."
+  },
+
+  {
+  "img":"assets/weapon-img/m60.jpg",
+  "name":"M60",
+  "official_name":"M60 Machine Gun",
+  "type":"Firearms",
+  "origin":"Hoa Kỳ",
+  "era":"Chiến tranh Việt Nam",
+  "overview":"M60 là súng máy hạng trung dùng đạn 7.62×51mm NATO. Nó được quân đội Hoa Kỳ sử dụng rộng rãi từ thập niên 1960 cho vai trò hỏa lực yểm trợ bộ binh."
+  },
+
+  {
+  "img":"assets/weapon-img/m24-grenade.jpg",
+  "name":"Stielhandgranate",
+  "official_name":"Model 24 Grenade",
+  "type":"Explosive weapons",
+  "origin":"Đức",
+  "era":"Thế chiến 2",
+  "overview":"Stielhandgranate là lựu đạn cán dài nổi tiếng của Đức. Thiết kế tay cầm giúp tăng tầm ném và dễ sử dụng trong chiến hào thời World War I và II."
+  },
+
+  {
+  "img":"assets/weapon-img/mk2-grenade.jpg",
+  "name":"MK2 Grenade",
+  "official_name":"MK2 Fragmentation Grenade",
+  "type":"Explosive weapons",
+  "origin":"Hoa Kỳ",
+  "era":"Thế chiến 2",
+  "overview":"MK2 là lựu đạn phân mảnh tiêu chuẩn của quân đội Hoa Kỳ trong World War II. Vỏ gang khía rãnh tạo nhiều mảnh văng khi phát nổ."
+  },
+
+  {
+  "img":"assets/weapon-img/rpg7.jpg",
+  "name":"RPG-7",
+  "official_name":"Ruchnoy Protivotankovy Granatomyot-7",
+  "type":"Missile weapons",
+  "origin":"Liên Xô",
+  "era":"Chiến tranh lạnh",
+  "overview":"RPG-7 là súng phóng lựu chống tăng vác vai được Liên Xô phát triển năm 1961. Nó bắn đạn rocket có đầu nổ lõm để xuyên giáp xe bọc thép."
+  },
+
+  {
+  "img":"assets/weapon-img/javelin.jpg",
+  "name":"FGM-148 Javelin",
+  "official_name":"FGM-148 Javelin",
+  "type":"Missile weapons",
+  "origin":"Hoa Kỳ",
+  "era":"Thế kỷ 21",
+  "overview":"Javelin là hệ thống tên lửa chống tăng vác vai dẫn đường hồng ngoại. Nó sử dụng cơ chế bắn-và-quên và tấn công từ trên xuống để phá hủy xe tăng."
+  },
+
+  {
+  "img":"assets/weapon-img/tomahawk.jpg",
+  "name":"Tomahawk",
+  "official_name":"BGM-109 Tomahawk",
+  "type":"Missile weapons",
+  "origin":"Hoa Kỳ",
+  "era":"Chiến tranh lạnh",
+  "overview":"Tomahawk là tên lửa hành trình tầm xa do Hoa Kỳ phát triển. Nó có thể mang đầu đạn thông thường hoặc hạt nhân và dẫn đường chính xác bằng GPS và hệ thống địa hình."
+  },
+
+  {
+  "img":"assets/weapon-img/v2.jpg",
+  "name":"V-2 Rocket",
+  "official_name":"Vergeltungswaffe-2",
+  "type":"Missile weapons",
+  "origin":"Đức",
+  "era":"Thế chiến 2",
+  "overview":"V-2 là tên lửa đạn đạo đầu tiên trên thế giới được sử dụng trong chiến tranh. Đức phát triển nó cuối World War II để tấn công các thành phố ở châu Âu."
+  },
+
+  {
+  "img":"assets/weapon-img/scud.jpg",
+  "name":"Scud",
+  "official_name":"R-17 Elbrus",
+  "type":"Missile weapons",
+  "origin":"Liên Xô",
+  "era":"Chiến tranh lạnh",
+  "overview":"Scud là tên lửa đạn đạo tầm ngắn do Liên Xô phát triển. Nó được nhiều quốc gia sử dụng và trở nên nổi tiếng trong các xung đột Trung Đông."
+  },
+
+  {
+  "img":"assets/weapon-img/longbow.jpg",
+  "name":"Longbow",
+  "official_name":"English Longbow",
+  "type":"Projectile weapons",
+  "origin":"Anh",
+  "era":"Trung cổ",
+  "overview":"Longbow là cung dài truyền thống của Anh thời trung cổ. Nó có lực kéo mạnh, tầm bắn xa và đóng vai trò quan trọng trong các trận chiến như Agincourt."
+  },
+
+  {
+  "img":"assets/weapon-img/crossbow.jpg",
+  "name":"Crossbow",
+  "official_name":"Crossbow",
+  "type":"Projectile weapons",
+  "origin":"Trung Quốc",
+  "era":"Cổ đại",
+  "overview":"Crossbow là nỏ cơ khí bắn tên bằng cơ cấu lò xo. Nó cho phép người dùng giữ lực căng sẵn và bắn với độ chính xác cao."
+  },
+
+  {
+  "img":"assets/weapon-img/trebuchet.jpg",
+  "name":"Trebuchet",
+  "official_name":"Trebuchet Siege Engine",
+  "type":"Projectile weapons",
+  "origin":"Châu Âu",
+  "era":"Trung cổ",
+  "overview":"Trebuchet là máy bắn đá công thành dùng đối trọng. Nó có khả năng phóng đá hoặc vật nặng với khoảng cách xa để phá tường thành."
+  },
+
+  {
+  "img":"assets/weapon-img/ballista.jpg",
+  "name":"Ballista",
+  "official_name":"Ballista",
+  "type":"Projectile weapons",
+  "origin":"La Mã cổ đại",
+  "era":"Cổ đại",
+  "overview":"Ballista là vũ khí công thành giống nỏ khổng lồ của La Mã. Nó phóng các mũi lao lớn hoặc đá vào mục tiêu ở khoảng cách xa."
+  },
+
+  {
+  "img":"assets/weapon-img/halberd.jpg",
+  "name":"Halberd",
+  "official_name":"Halberd",
+  "type":"Melee weapons",
+  "origin":"Châu Âu",
+  "era":"Trung cổ",
+  "overview":"Halberd là vũ khí cán dài kết hợp rìu, móc và mũi giáo. Nó được bộ binh châu Âu sử dụng để chống kỵ binh và tấn công giáp."
+  },
+
+  {
+  "img":"assets/weapon-img/spear.jpg",
+  "name":"Spear",
+  "official_name":"Spear",
+  "type":"Melee weapons",
+  "origin":"Toàn cầu",
+  "era":"Tiền sử",
+  "overview":"Spear là vũ khí cán dài với mũi nhọn dùng để đâm hoặc ném. Đây là một trong những loại vũ khí cổ xưa nhất của nhân loại."
+  },
+
+  {
+  "img":"assets/weapon-img/gladius.jpg",
+  "name":"Gladius",
+  "official_name":"Roman Gladius",
+  "type":"Melee weapons",
+  "origin":"La Mã",
+  "era":"Cổ đại",
+  "overview":"Gladius là kiếm ngắn của binh lính La Mã cổ đại. Thiết kế ngắn và chắc giúp hiệu quả trong đội hình chiến đấu chặt chẽ."
+  },
+
+  {
+  "img":"assets/weapon-img/rapier.jpg",
+  "name":"Rapier",
+  "official_name":"Rapier Sword",
+  "type":"Melee weapons",
+  "origin":"Tây Ban Nha",
+  "era":"Phục Hưng",
+  "overview":"Rapier là kiếm mảnh và dài dùng chủ yếu để đâm. Nó phổ biến trong giới quý tộc châu Âu thời Phục Hưng."
+  },
+
+  {
+  "img":"assets/weapon-img/claymore.jpg",
+  "name":"Claymore",
+  "official_name":"Scottish Claymore",
+  "type":"Melee weapons",
+  "origin":"Scotland",
+  "era":"Trung cổ",
+  "overview":"Claymore là kiếm hai tay lớn của Scotland. Nó có lưỡi dài và được dùng trong các trận chiến thời trung cổ."
+  },
+
+  {
+  "img":"assets/weapon-img/mace.jpg",
+  "name":"Mace",
+  "official_name":"Medieval Mace",
+  "type":"Melee weapons",
+  "origin":"Châu Âu",
+  "era":"Trung cổ",
+  "overview":"Mace là vũ khí đánh bằng đầu kim loại nặng. Nó được thiết kế để gây sát thương mạnh lên giáp kim loại."
+  },
+
+  {
+  "img":"assets/weapon-img/warhammer.jpg",
+  "name":"War Hammer",
+  "official_name":"Medieval War Hammer",
+  "type":"Melee weapons",
+  "origin":"Châu Âu",
+  "era":"Trung cổ",
+  "overview":"War hammer là búa chiến với đầu nhọn hoặc đầu đập nặng. Nó hiệu quả trong việc xuyên hoặc làm biến dạng giáp."
+  },
+
+  {
+  "img":"assets/weapon-img/nunchaku.jpg",
+  "name":"Nunchaku",
+  "official_name":"Nunchaku",
+  "type":"Melee weapons",
+  "origin":"Okinawa",
+  "era":"Phong kiến",
+  "overview":"Nunchaku là vũ khí gồm hai thanh gỗ nối bằng dây hoặc xích. Nó được sử dụng trong võ thuật truyền thống Okinawa."
+  },
+
+  {
+  "img":"assets/weapon-img/shuriken.jpg",
+  "name":"Shuriken",
+  "official_name":"Shuriken",
+  "type":"Projectile weapons",
+  "origin":"Nhật Bản",
+  "era":"Phong kiến",
+  "overview":"Shuriken là vũ khí ném nhỏ của ninja Nhật Bản. Chúng thường có dạng ngôi sao kim loại sắc nhọn."
+  },
+
+  {
+  "img":"assets/weapon-img/molotov.jpg",
+  "name":"Molotov Cocktail",
+  "official_name":"Molotov Cocktail",
+  "type":"Explosive weapons",
+  "origin":"Phần Lan",
+  "era":"Thế chiến 2",
+  "overview":"Molotov cocktail là vũ khí cháy đơn giản gồm chai chứa nhiên liệu và bấc cháy. Nó được dùng rộng rãi trong chiến tranh và nổi dậy."
+  },
+
+  {
+  "img":"assets/weapon-img/dynamite.jpg",
+  "name":"Dynamite",
+  "official_name":"Dynamite",
+  "type":"Explosive weapons",
+  "origin":"Thụy Điển",
+  "era":"Thế kỷ 19",
+  "overview":"Dynamite là chất nổ do Alfred Nobel phát minh năm 1867. Nó ổn định hơn nitroglycerin và được dùng trong xây dựng và khai mỏ."
+  },
+
+  {
+  "img":"assets/weapon-img/tnt.jpg",
+  "name":"TNT",
+  "official_name":"Trinitrotoluene",
+  "type":"Explosive weapons",
+  "origin":"Đức",
+  "era":"Thế kỷ 19",
+  "overview":"TNT là hợp chất nổ mạnh được sử dụng rộng rãi trong quân sự. Nó ổn định trong vận chuyển và có sức nổ mạnh."
+  },
+
+  {
+  "img":"assets/weapon-img/fat-man.jpg",
+  "name":"Fat Man",
+  "official_name":"Mark III Nuclear Bomb",
+  "type":"Weapons of mass destruction",
+  "origin":"Hoa Kỳ",
+  "era":"Thế chiến 2",
+  "overview":"Fat Man là bom nguyên tử sử dụng thiết kế nổ nén plutonium. Nó được thả xuống Nagasaki năm 1945."
+  },
+
+  {
+  "img":"assets/weapon-img/little-boy.jpg",
+  "name":"Little Boy",
+  "official_name":"Little Boy Atomic Bomb",
+  "type":"Weapons of mass destruction",
+  "origin":"Hoa Kỳ",
+  "era":"Thế chiến 2",
+  "overview":"Little Boy là bom nguyên tử sử dụng uranium-235. Nó được thả xuống Hiroshima năm 1945."
+  },
+
+  {
+  "img":"assets/weapon-img/tsar-bomba.jpg",
+  "name":"Tsar Bomba",
+  "official_name":"AN602 Hydrogen Bomb",
+  "type":"Weapons of mass destruction",
+  "origin":"Liên Xô",
+  "era":"Chiến tranh lạnh",
+  "overview":"Tsar Bomba là quả bom nhiệt hạch mạnh nhất từng được thử nghiệm. Liên Xô kích nổ nó năm 1961 với sức nổ khoảng 50 megaton."
+  },
+
+  {
+  "img":"assets/weapon-img/trident-ii.jpg",
+  "name":"Trident II",
+  "official_name":"UGM-133 Trident II",
+  "type":"Missile weapons",
+  "origin":"Hoa Kỳ",
+  "era":"Chiến tranh lạnh",
+  "overview":"Trident II là tên lửa đạn đạo phóng từ tàu ngầm của Hoa Kỳ. Nó mang nhiều đầu đạn hạt nhân và có tầm bắn xuyên lục địa."
+  },
+
+  {
+  "img":"assets/weapon-img/minuteman.jpg",
+  "name":"Minuteman III",
+  "official_name":"LGM-30G Minuteman III",
+  "type":"Missile weapons",
+  "origin":"Hoa Kỳ",
+  "era":"Chiến tranh lạnh",
+  "overview":"Minuteman III là tên lửa đạn đạo liên lục địa đặt trong silo. Nó là thành phần quan trọng của lực lượng răn đe hạt nhân Hoa Kỳ."
+  },
+
+  {
+  "img":"assets/weapon-img/patriot.jpg",
+  "name":"Patriot",
+  "official_name":"MIM-104 Patriot",
+  "type":"Missile weapons",
+  "origin":"Hoa Kỳ",
+  "era":"Thế kỷ 20",
+  "overview":"Patriot là hệ thống tên lửa phòng không hiện đại. Nó được thiết kế để đánh chặn máy bay và tên lửa đạn đạo."
+  },
+
+  {
+  "img":"assets/weapon-img/sa2.jpg",
+  "name":"SA-2",
+  "official_name":"S-75 Dvina",
+  "type":"Missile weapons",
+  "origin":"Liên Xô",
+  "era":"Chiến tranh lạnh",
+  "overview":"S-75 Dvina là hệ thống tên lửa phòng không tầm cao của Liên Xô. Nó nổi tiếng khi bắn hạ máy bay do thám U-2 năm 1960."
+  },
+
+  {
+  "img":"assets/weapon-img/stinger.jpg",
+  "name":"Stinger",
+  "official_name":"FIM-92 Stinger",
+  "type":"Missile weapons",
+  "origin":"Hoa Kỳ",
+  "era":"Chiến tranh lạnh",
+  "overview":"Stinger là tên lửa phòng không vác vai dẫn đường hồng ngoại. Nó được dùng để bắn hạ máy bay bay thấp."
+  },
+
+  {
+  "img":"assets/weapon-img/m79.jpg",
+  "name":"M79",
+  "official_name":"M79 Grenade Launcher",
+  "type":"Firearms",
+  "origin":"Hoa Kỳ",
+  "era":"Chiến tranh Việt Nam",
+  "overview":"M79 là súng phóng lựu một phát sử dụng đạn 40mm. Nó được quân đội Hoa Kỳ sử dụng rộng rãi trong chiến tranh Việt Nam."
+  },
+
+  {
+  "img":"assets/weapon-img/m203.jpg",
+  "name":"M203",
+  "official_name":"M203 Grenade Launcher",
+  "type":"Firearms",
+  "origin":"Hoa Kỳ",
+  "era":"Chiến tranh lạnh",
+  "overview":"M203 là súng phóng lựu 40mm gắn dưới nòng súng trường. Nó cung cấp khả năng bắn lựu đạn cho bộ binh."
+  },
+
+  {
+  "img":"assets/weapon-img/aa12.jpg",
+  "name":"AA-12",
+  "official_name":"Auto Assault-12",
+  "type":"Firearms",
+  "origin":"Hoa Kỳ",
+  "era":"Thế kỷ 21",
+  "overview":"AA-12 là shotgun tự động hoàn toàn. Nó được thiết kế để giảm giật và bắn liên tục với tốc độ cao."
+  },
+
+  {
+  "img":"assets/weapon-img/spas12.jpg",
+  "name":"SPAS-12",
+  "official_name":"Franchi SPAS-12",
+  "type":"Firearms",
+  "origin":"Ý",
+  "era":"Thế kỷ 20",
+  "overview":"SPAS-12 là shotgun chiến thuật có thể hoạt động bán tự động hoặc bơm tay. Nó được sử dụng bởi nhiều lực lượng quân sự và cảnh sát."
+  },
+
+  {
+  "img":"assets/weapon-img/beretta92.jpg",
+  "name":"Beretta 92",
+  "official_name":"Beretta 92FS",
+  "type":"Firearms",
+  "origin":"Ý",
+  "era":"Thế kỷ 20",
+  "overview":"Beretta 92FS là súng ngắn bán tự động dùng đạn 9×19mm. Nó từng là súng ngắn tiêu chuẩn của quân đội Hoa Kỳ với tên M9."
+  },
+
+  {
+  "img":"assets/weapon-img/luger.jpg",
+  "name":"Luger",
+  "official_name":"P08 Luger",
+  "type":"Firearms",
+  "origin":"Đức",
+  "era":"Thế chiến 1",
+  "overview":"Luger P08 là súng ngắn bán tự động nổi tiếng của Đức. Thiết kế khóa nòng khớp gập đặc trưng khiến nó dễ nhận diện."
   }
-
-
 
 ]
